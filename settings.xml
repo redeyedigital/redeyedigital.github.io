@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings
 
-nameText="Isabel Designöstrøm"
-taglineText="art direction + illustration + photography"
+nameText="Red Eye Digital"
+taglineText="videography + photography + illustration"
 mainText="NEW SITE COMING SOON"
 
 useOwnLogo="false"
@@ -34,8 +34,7 @@ siteRotation="0"
 
 >
 
-<link text="HELLO@ISABELDESIGNOSTROM.COM" url="mailto:hello@warmforestflash.com" />
+<link text="richard@richardmullane.com" url="mailto:richard@richardmullane.com" />
 <link text="DOWNLOAD MY RESUMÉ" url="http://www.warmforestflash.com/" target="_blank" />
-<link text="VISIT ME ON LINKEDIN" url="http://www.warmforestflash.com/" target="_blank" />
 	
 </settings>
