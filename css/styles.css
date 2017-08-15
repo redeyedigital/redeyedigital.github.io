@@ -65,7 +65,7 @@ a:hover {text-decoration:underline;}
 	position:absolute;
 	width:20%;
 	z-index:1000;
-	color: #fff;
+	color: #ef1321;
 }
 
 .main-nav{
@@ -81,7 +81,7 @@ a:hover {text-decoration:underline;}
 	padding-left: 10px;
 	border-left: 1px solid #b7b7b7;
 }
-.main-nav ul li a.active {color: #ffa800;}
+.main-nav ul li a.active {color: #ff0000;}
 
 .social-nav {
 	position:absolute;
